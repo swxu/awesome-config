@@ -26,7 +26,6 @@
     "http.proxySupport": "off",
     "terminal.integrated.inheritEnv": false,
     "editor.suggestSelection": "first",
-   
 }
 ```
 
