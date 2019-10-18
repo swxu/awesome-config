@@ -1,7 +1,7 @@
 # Settings for Git
 
-[Chinese git toturial](https://www.liaoxuefeng.com/wiki/896043488029600)
-[Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
+- [Chinese git toturial](https://www.liaoxuefeng.com/wiki/896043488029600)
+- [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 
 ```
 //.gitconfig
