@@ -1,15 +1,16 @@
 # Settings for VSCode
 
 ## Plugins list
-- Brackets Pair Colorizer 2
-- C/C++
-- C++ Intellience
-- LeetCode
-- Markdown Preview Enhanced
-- Path Autocomplete
+- One Dark Pro
 - Python
+- C/C++
+- vscode-clangd
+- LeetCode
+- Brackets Pair Colorizer 2
+- Markdown Preview Enhanced
+- Path IntelliSense
 - TabNine
-- vscode-icons
+
 
 ## VSCode Settings JSON
 ```json
@@ -19,13 +20,7 @@
     "editor.fontSize": 15,
     "editor.fontFamily": "Monaco",
     "terminal.integrated.fontSize": 14,
-    "C_Cpp.updateChannel": "Insiders",
-    
-    "window.zoomLevel": 0,
-    "leetcode.workspaceFolder": "/Users/will/Downloads/war/Algorithm/LeetCodeSolutions",
-    "http.proxySupport": "off",
-    "terminal.integrated.inheritEnv": false,
-    "editor.suggestSelection": "first",
+    "workbench.colorTheme": "One Dark Pro",
 }
 ```
 
@@ -38,7 +33,7 @@
 {
     "configurations": [
         {
-            // Maybe need some changes here.
+            // Maybe need some changes here for include other code files.
             "name": "macOS",
             "includePath": [
                 "${workspaceFolder}/**" 
