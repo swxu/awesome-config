@@ -1,4 +1,4 @@
-# Settings for VSCode
+# Suggestions for VSCode
 
 ## Plugins list
 - One Dark Pro
