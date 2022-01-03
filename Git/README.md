@@ -4,10 +4,10 @@
 - [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 
 ```
-//.gitconfig
+// .gitconfig
 [user]
-	name = willsnow
-	email = willsnowdev@gmail.com
+	name = <your name>
+	email = <your email>
 #[http]
 #	proxy = socks5://127.0.0.1:1086
 #[https]

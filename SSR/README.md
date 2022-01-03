@@ -10,3 +10,5 @@ It's easy to configure SSR on Windows or Mac by tutorial above.
 - Download ```SwitchOmega``` in browsers' extensions store. Firefox can directly install the extension. But Chrome needs some tricks.
 - Here's a [trick](https://github.com/Magicalsoso/SwitchOmega) for Chrome. Actually, our repository has a backup. :P
 - Rename ```SwitchOmega``` install package to ```xxxxx.zip``` and ```unzip``` it. Open developer mode in Chrome and you are clever to install and configure ```SwitchOmega```.
+
+> Here's [a free way](https://free.shadowrocket.online) to download `shadowrocket` on iOS.
